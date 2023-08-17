@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AshleyGittyHubby
+- 👀 I’m interested in Programming, Enterprise and IOT
+- 🌱 I’m currently learning Kubernetes
+- 💞️ I’m looking to collaborate on Discord Bots
+- 📫 How to reach me? You can via my email at ashley@nexusteam.co.uk
